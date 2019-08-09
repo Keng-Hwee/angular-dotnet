@@ -1,0 +1,14 @@
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\bin\Debug\netcoreapp2.1\App.API.deps.json
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\bin\Debug\netcoreapp2.1\App.API.runtimeconfig.json
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\bin\Debug\netcoreapp2.1\App.API.runtimeconfig.dev.json
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\bin\Debug\netcoreapp2.1\App.API.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\bin\Debug\netcoreapp2.1\App.API.pdb
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\obj\Debug\netcoreapp2.1\App.API.csprojAssemblyReference.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\obj\Debug\netcoreapp2.1\App.API.csproj.CoreCompileInputs.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\obj\Debug\netcoreapp2.1\App.API.RazorAssemblyInfo.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\obj\Debug\netcoreapp2.1\App.API.RazorAssemblyInfo.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\obj\Debug\netcoreapp2.1\App.API.AssemblyInfoInputs.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\obj\Debug\netcoreapp2.1\App.API.AssemblyInfo.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\obj\Debug\netcoreapp2.1\App.API.RazorTargetAssemblyInfo.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\obj\Debug\netcoreapp2.1\App.API.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\angular-dotnet-app\App\App.API\obj\Debug\netcoreapp2.1\App.API.pdb
