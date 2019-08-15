@@ -80,7 +80,7 @@ namespace App.API
                             context.Response.AddApplicationError(error.Error.Message);
                             await context.Response.WriteAsync(error.Error.Message);
                         };
-                    })
+                    });
                 });
                 // app.UseHsts();
             }
