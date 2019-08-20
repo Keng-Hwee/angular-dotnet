@@ -16,7 +16,7 @@ namespace App.API.Helpers
                 })
                 .ForMember(dest => dest.Age, opt =>
                 {
-                    opt.ResolveUsing(d => d.DateOfBirth.CalculateAge())
+                    opt.ResolveUsing(d => d.DateOfBirth.CalculateAge());
                 });
             CreateMap<User, UserForDetailedDto>()
                 .ForMember(dest => dest.PhotoUrl, opt =>

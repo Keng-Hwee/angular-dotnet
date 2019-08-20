@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kengh\\OneDrive\\Desktop\\Projects\\angular-dotnet-app\\App\\App.API\\App.API.csproj": {}
+    "C:\\Users\\kengh\\OneDrive\\Desktop\\Projects\\angular-dotnet-app\\App\\App.API\\App.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kengh\\OneDrive\\Desktop\\Projects\\angular-dotnet-app\\App\\App.API\\App.API.csproj": {
+    "C:\\Users\\kengh\\OneDrive\\Desktop\\Projects\\angular-dotnet-app\\App\\App.API\\App.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kengh\\OneDrive\\Desktop\\Projects\\angular-dotnet-app\\App\\App.API\\App.API.csproj",
+        "projectUniqueName": "C:\\Users\\kengh\\OneDrive\\Desktop\\Projects\\angular-dotnet-app\\App\\App.API\\App.API.csproj",
         "projectName": "App.API",
-        "projectPath": "c:\\Users\\kengh\\OneDrive\\Desktop\\Projects\\angular-dotnet-app\\App\\App.API\\App.API.csproj",
+        "projectPath": "C:\\Users\\kengh\\OneDrive\\Desktop\\Projects\\angular-dotnet-app\\App\\App.API\\App.API.csproj",
         "packagesPath": "C:\\Users\\kengh\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kengh\\OneDrive\\Desktop\\Projects\\angular-dotnet-app\\App\\App.API\\obj\\",
+        "outputPath": "C:\\Users\\kengh\\OneDrive\\Desktop\\Projects\\angular-dotnet-app\\App\\App.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
